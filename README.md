@@ -10,7 +10,7 @@ Age = "17"
 Country = "🇮🇳"
 ```
 #### 
-[![telegram badge](https://img.shields.io/badge/RISHABH-black?style=for-the-badge&logo=telegram)](https://t.me/Mafiarishabh)
+[![R](https://img.shields.io/badge/RISHABH-black?style=for-the-badge&logo=telegram)](https://t.me/Mafiarishabh)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishabh&label=Profile%20Views&color=orange&style=flat-square" alt="rishabh" /> </p>
 
 
