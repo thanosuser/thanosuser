@@ -1,6 +1,6 @@
 
 <h2 align="center"><b> ⠐💥💫яιѕнαвн αηαηα∂💫💥 ⠐ </b></h2>
-![1641972673726](https://telegra.ph/file/99edce8987fdf5555be93.jpg)
+[RISHABH](https://telegra.ph/file/99edce8987fdf5555be93.jpg)
 
 <p align='Middle'><a href='https://t.me/Mafiarishabh><img src='https://telegra.ph/file/6c5debf0ec42055e2eca7.jpg' width='750"'></a></p>
 <p align="center">
