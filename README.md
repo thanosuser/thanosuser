@@ -1,5 +1,6 @@
 
 <h2 align="center"><b> ⠐💥💫яιѕнαвн αηαηα∂💫💥 ⠐ </b></h2>
+![1641972673726](https://user-images.githubusercontent.com/94896142/158004772-840d7fc4-6e31-4d6b-a007-a53ef2e3259f.jpg)
 
 <p align='Middle'><a href='https://t.me/Mafiarishabh><img src='https://telegra.ph/file/6c5debf0ec42055e2eca7.jpg' width='750"'></a></p>
 <p align="center">
@@ -104,7 +105,7 @@ OP
 
      
 ========={яιѕнαвн αηαηα∂]================
-![23828996 - Copy](https://user-images.githubusercontent.com/87700009/132297993-586a4f2d-741c-4eff-8f43-9d5ce8978127.jpg)
+![1641972673726](https://user-images.githubusercontent.com/94896142/158004772-840d7fc4-6e31-4d6b-a007-a53ef2e3259f.jpg)
  ![image](https://user-images.githubusercontent.com/87700009/133559934-d17c2c74-3507-43f7-8fa5-acf2a423993e.png)
  ![image](https://user-images.githubusercontent.com/87700009/133559990-894ac3fb-c7dd-4124-b9f5-8e8cb4ac936a.png)
  ![image](https://user-images.githubusercontent.com/87700009/133560780-0b124404-c06b-4588-8fd7-8a252b865338.png)
