@@ -1,8 +1,8 @@
 from telethon import TelegramClient, events, Button
-api_id = 15563529
-api_hash = 'c8e8a927f89fd5d00322c00760035030'
-token = '5106990765:AAGVD4xpGDiJQlZxbsQozi1XTvxf98bHxGU'
-client = TelegramClient("legendx", api_id, api_hash).start(bot_token=token)
+api_id = 
+api_hash = ''
+token = ''
+client = TelegramClient("rishabhxd", api_id, api_hash).start(bot_token=token)
 '''
 ophghf
 '''
